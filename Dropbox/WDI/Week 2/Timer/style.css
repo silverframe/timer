@@ -1,0 +1,38 @@
+@import url(http://fonts.googleapis.com/css?family=Josefin+Slab);
+
+.controls {
+  margin: 50px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 72px;
+  text-align: center;
+
+}
+
+i {
+  margin: 0 auto;
+  justify-content: center;
+}
+
+button {
+  background: #F94848;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 20px;
+  padding: 15px 25px;
+  border-radius: 20px;
+}
+
+button:hover{
+    background: #CD4343;
+}
+
+button:active{
+    background: #CD4343;
+}
